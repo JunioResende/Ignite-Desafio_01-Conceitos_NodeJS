@@ -68,6 +68,8 @@ app.post('/todos', checksExistsUserAccount, (request, response) => {
 
   user.todos.push(todo)
 
+  // console.log(todo)
+
   return response.status(201).send()
 });
 

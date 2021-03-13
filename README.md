@@ -13,7 +13,7 @@ Nesse projeto utilizamos as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 
-# 🛠 Rotas da Aplicação
+# 🔀 Rotas da Aplicação
 
 - Criar usuário: POST <http://localhost:3333/users>
 - Listar tarefas: GET <http://localhost:3333/todos>
